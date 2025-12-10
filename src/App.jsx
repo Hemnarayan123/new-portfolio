@@ -179,7 +179,7 @@ const experience = [
     company: "Brenin Inc.",
     period: "Sep-2024 - Jan-2025",
     description:
-      "Contributed to a product-based engineering team delivering robust, user-centric software solutions. Built 12+ production-grade MERN applications and established CI/CD workflows that reduced deployment cycles by 60%. Supported key product development initiatives through reliable coding practices, rapid learning, and effective cross-team collaboration."
+      "Contributed to a product-based engineering team delivering robust, user-centric software solutions. Supported key product development initiatives through reliable coding practices, rapid learning, and effective cross-team collaboration."
   },
   {
     role: "Web Developer",
