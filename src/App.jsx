@@ -730,7 +730,7 @@ const experience = [
             </div>
             
             <p className="text-gray-400 text-sm">
-              © 2024 All rights reserved. Built with React, Tailwind CSS & Passion
+              © 2025 All rights reserved.
             </p>
 
             <div className="flex gap-4">
